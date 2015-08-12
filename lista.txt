@@ -1,0 +1,4 @@
+German;6;0
+Jonathan;3;0
+Sebastian;23;0
+Camilo;11;0

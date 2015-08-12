@@ -1,0 +1,1 @@
+Ahi estan las operaciones, encontre un comando que compara las cadenas asi varien de mayusculas a minusculas. Revisenlo si pueden porfa, me cuentan que hacen en clase XD.
